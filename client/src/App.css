@@ -1,0 +1,9 @@
+body {
+  background-image: url("./pics/mountains-862870_1920.jpg");
+  /* background-image: url("./pics/aurora-1197753_1920.jpg"); */
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #999;
+}
